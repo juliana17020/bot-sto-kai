@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+env/
+*.env
+.DS_Store
+service_account.json  # Не загружаем в Git!
+.vscode/
+.idea/
+*.log
